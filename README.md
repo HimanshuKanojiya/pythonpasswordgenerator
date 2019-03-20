@@ -6,7 +6,9 @@ Requirement:
 2. Python 2.7 and above versions.
 
 Program Name: Password Generator
+
 Version: 1.0
+
 Created By Himanshu Kanojiya
 
 Email Address: himanshukanojiya825@gmail.com
